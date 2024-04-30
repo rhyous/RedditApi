@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Rhyous.Reddit": {
+      "commandName": "Project",
+      "commandLineArgs": "AppId=aaaaaaaaaaa ClientSecret=bbbbbbbbbbbbb OAuth2Url=https://www.reddit.com/api/v1/authorize RedirectUrl=http://127.0.0.1:7090 Scopes=\"Scope1\" SubReddits=\"brandonsanderson\""
+    }
+  }
+}

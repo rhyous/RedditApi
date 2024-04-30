@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhyous.Reddit", "Rhyous.Reddit\Rhyous.Reddit.csproj", "{2CBE196D-79C9-437D-B07F-45737B4D8127}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhyous.Reddit.Tests", "Rhyous.Reddit.Tests\Rhyous.Reddit.Tests.csproj", "{C6CD61A8-6D4E-418E-AB69-ADA8B81BA16A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CBE196D-79C9-437D-B07F-45737B4D8127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CBE196D-79C9-437D-B07F-45737B4D8127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CBE196D-79C9-437D-B07F-45737B4D8127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CBE196D-79C9-437D-B07F-45737B4D8127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6CD61A8-6D4E-418E-AB69-ADA8B81BA16A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6CD61A8-6D4E-418E-AB69-ADA8B81BA16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6CD61A8-6D4E-418E-AB69-ADA8B81BA16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6CD61A8-6D4E-418E-AB69-ADA8B81BA16A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D979963-D720-42E4-9B2B-B74C5FA50297}
+	EndGlobalSection
+EndGlobal
